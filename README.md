@@ -3,7 +3,7 @@ Currently Learning python and data analysis.</br>
 Interested to work on AI and automation related stuff.</br> 
 
 Feel free to contact me.  We can learn together and built things together.</br>
-Vive La Coders...
+Vive La Programmers...
 </br>
 mailto: luhar2992@gmail.com
 <!---
