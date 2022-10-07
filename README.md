@@ -1,6 +1,6 @@
 👋 Hi, I’m ur new friend. Nice to meet you.</br> 
-Currently Learning python and data analysis.</br>
-Interested to work on AI and automation related stuff.</br> 
+Currently exploring python</br>
+Interested to work on AI, automation related stuff.</br> 
 
 Feel free to contact me.  We can learn together and built things together.</br>
 Vive La Programmers...
